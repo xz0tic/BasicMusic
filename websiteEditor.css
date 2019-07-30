@@ -1,0 +1,21 @@
+  h1 {
+    color: white;
+    font-size: 18;
+    font-family: 'Fira Code', monospace;
+  }
+
+.one {
+  font-family: 'Fira Code', monospace;
+  color: white;
+  font-size: 16;
+}
+
+strong {
+  font-family: 'Fira Code', monospace;
+}
+body {
+  /* canvas */
+ background-color: #981F7C;
+ font-family: 'Fira Code', monospace;
+ color: white;
+}
